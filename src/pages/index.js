@@ -10,7 +10,10 @@ export default function Home() {
 
       <main>
         <h1 className='title'>Welcome to the TFCOH webpage for <br/> CSCI-1000 2023!</h1>
-
+        <img
+        className='pic'
+        src='https://i.postimg.cc/VL3zfXZz/pic.png'
+        />
         <p className='description'>
           Also known as Group 38
         </p>
@@ -209,6 +212,11 @@ export default function Home() {
 
         .logo {
           height: 1em;
+        }
+
+        .pic{
+          width: 600px;
+          height: 450px;
         }
 
         @media (max-width: 600px) {
