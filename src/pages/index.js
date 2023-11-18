@@ -53,9 +53,9 @@ export default function Home() {
             <h3>Styled Components&rarr;</h3>
             <p>Click here to learn more about Styled Components</p>
           </a>
-          <a href='https://www.netlify.com/' className='card'>
+          <a href='https://tfcof-csci1000-project.netlify.app/' className='card'>
             <h3>Netlify&rarr;</h3>
-            <p>Click here to learn more about Netlify to host your website</p>
+            <p>Click here to open the Netlify link</p>
           </a>
           <a href='/DannyToy ' className='card'>
             <h3>danno's page&rarr;</h3>
