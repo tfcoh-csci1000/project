@@ -9,25 +9,42 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1 className='title'>Congratulations! You've set up your webapp!</h1>
+        <h1 className='title'>Welcome to the TFCOH webpage for <br/> CSCI-1000 2023!</h1>
 
         <p className='description'>
-          Get started by editing <code>src/pages/index.js</code> to be your
-          project home page.
+          Also known as Group 38
         </p>
         <p className='description2'>
-          Next, each team member will create their own about me file in the
-          pages directory:{' '}
+          Each team member and their pages are listed here:
         </p>
-        <code>src/page/teamMemberName.js</code>
 
         <div className='grid'>
           <a href='/TomHolland ' className='card'>
             <h3>Example About Me Page &rarr;</h3>
-            <p>Click here to navigate to an example page</p>
+            <p>Click here to open an example page</p>
+          </a>
+          <a href='/JeremyChau ' className='card'>
+            <h3>Jeremy's Page &rarr;</h3>
+            <p>Click here to open Jeremy's page!</p>
+          </a>
+          <a href='/EvanFeng ' className='card'>
+            <h3>Evan's Page &rarr;</h3>
+            <p>Click here to open Evan's page!</p>
+          </a>
+          <a href='/SamHarris ' className='card'>
+            <h3>Sam's Page &rarr;</h3>
+            <p>Click here to open Sam's page!</p>
+          </a>
+          <a href='/LoganOram ' className='card'>
+            <h3>Logan's Page &rarr;</h3>
+            <p>Click here to open Logan's page!</p>
+          </a>
+          <a href='/DannyToy ' className='card'>
+            <h3>Danny's Page &rarr;</h3>
+            <p>Click here to open Danny's page!</p>
           </a>
 
-          <a
+          {/* <a
             href='https://github.com/vedant29/Project-CSCI-1000'
             className='card'>
             <h3>Project Resources&rarr;</h3>
@@ -52,14 +69,10 @@ export default function Home() {
           <a href='https://styled-components.com/' className='card'>
             <h3>Styled Components&rarr;</h3>
             <p>Click here to learn more about Styled Components</p>
-          </a>
+          </a> */}
           <a href='https://tfcof-csci1000-project.netlify.app/' className='card'>
             <h3>Netlify&rarr;</h3>
             <p>Click here to open the Netlify link</p>
-          </a>
-          <a href='/DannyToy ' className='card'>
-            <h3>danno's page&rarr;</h3>
-            <p>Click here to open danno's page</p>
           </a>
         </div>
       </main>
