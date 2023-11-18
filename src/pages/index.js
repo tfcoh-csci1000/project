@@ -57,6 +57,10 @@ export default function Home() {
             <h3>Netlify&rarr;</h3>
             <p>Click here to learn more about Netlify to host your website</p>
           </a>
+          <a href='/DannyToy ' className='card'>
+            <h3>danno's page&rarr;</h3>
+            <p>Click here to open danno's page</p>
+          </a>
         </div>
       </main>
 
