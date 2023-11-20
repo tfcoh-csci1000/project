@@ -6,7 +6,7 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hey, I'm Spider logan-man. </h1>
+            <h1 className='title'>Logan Oram</h1>
           </div>
           <img
             className='pic'
@@ -15,14 +15,10 @@ export default function examplePage() {
           />
 
           <p className='description'>
-            Hey I am your friendly neighbourhood Spider Man. My real name is Tom
-            Holland. I am an actor but mostly I fight villains and juggle high school.
-            I am just your average student – well, maybe not so average. 
-            You see, I've got some incredible powers, like superhuman strength, agility, 
-            and the ability to shoot webs from my wrists. With great power comes great 
-            responsibility, and I'm here to protect New York City from all kinds of baddies,
-            from common crooks to supervillains. So, if you ever need a hand or a web-swinging
-            hero in your corner, just remember, I'm your friendly neighborhood Spider-Man!"
+            Hi, I'm Logan Oram, a freshman at CU Boulder majoring in Computer Science. 
+            I'm excited to further develop my CS knowledge and skills. I'm particularly 
+            interested in software engineering and machine learning. I hope to further my
+            experience in the CS field and achieve a Bachelor's of Science in Computer Science.
           </p>
 
           <a className='button' href='/'>
