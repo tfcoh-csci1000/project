@@ -19,7 +19,7 @@ export default function examplePage() {
          development and all that computer science has to offer. More specifically I am interested in implementing 
          Artifical Intelligence and Machine learning to solve problems that are otherwise very difficult or monotonous 
          for humans. I also want to develop myself professionally and create network of driven and passionate engineers
-         looking to push the boundaries of computer science. 
+         looking to push the boundaries of computer science. I really like beautiful scenary and long walks on the beach!
         </p>
 
         <a className='button' href='/'>
