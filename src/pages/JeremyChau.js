@@ -6,23 +6,14 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Hey, I'm Spider jeremy-man. </h1>
+            <h1 className='title'>Jeremy Chau</h1>
           </div>
-          <img
-            className='pic'
-            src='https://i.postimg.cc/qR2VgDkd/spiderman.jpg'
-            alt='tom holland'
-          />
 
           <p className='description'>
-            Hey I am your friendly neighbourhood Spider Man. My real name is Tom
-            Holland. I am an actor but mostly I fight villains and juggle high school.
-            I am just your average student – well, maybe not so average. 
-            You see, I've got some incredible powers, like superhuman strength, agility, 
-            and the ability to shoot webs from my wrists. With great power comes great 
-            responsibility, and I'm here to protect New York City from all kinds of baddies,
-            from common crooks to supervillains. So, if you ever need a hand or a web-swinging
-            hero in your corner, just remember, I'm your friendly neighborhood Spider-Man!"
+            Hey I am Jeremy Chau. I am a student at CU Boulder studying Computer Science at the moment.
+            I am interested in Machine Learning and Artifical Intelligence right now, and plan on taking
+            future courses in theses fields. I like to work on cars, do photography, and hang out with
+            friends in my free time. 
           </p>
 
           <a className='button' href='/'>
