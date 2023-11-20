@@ -8,11 +8,6 @@ export default function examplePage() {
           <div className='underline'>
             <h1 className='title'>Welcome! I'm Danny Toy!</h1>
           </div>
-          <img
-            className='pic'
-            src='https://i.postimg.cc/qR2VgDkd/spiderman.jpg'
-            alt='tom holland'
-          />
 
           <p className='description'>
             My name is Danny Toy. I am a Computer Science major at the University of Colorado Boulder! I am also currently going for a math and japanese minor! I have a lot of hobbies
