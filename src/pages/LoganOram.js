@@ -11,7 +11,7 @@ export default function examplePage() {
           <img
             className='pic'
             src='https://i.postimg.cc/ncdDrgMr/IMG-0426.png'
-            alt='tom holland'
+            alt='Me'
           />
 
           <p className='description'>
