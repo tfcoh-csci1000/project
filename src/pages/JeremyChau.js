@@ -13,7 +13,7 @@ export default function examplePage() {
             Hey I am Jeremy Chau. I am a student at CU Boulder studying Computer Science at the moment.
             I am interested in Machine Learning and Artifical Intelligence right now, and plan on taking
             future courses in theses fields. I like to work on cars, do photography, and hang out with
-            friends in my free time. TEST
+            friends in my free time.
           </p>
 
           <a className='button' href='/'>
