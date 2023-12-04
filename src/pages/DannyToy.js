@@ -6,8 +6,13 @@ export default function examplePage() {
 
         <main>
           <div className='underline'>
-            <h1 className='title'>Welcome! I'm Danny Toy!</h1>
+            <h1 className='title'>Welcome! I'm Danny!</h1>
           </div>
+
+          <img
+            className='pic'
+            src='https://i.postimg.cc/K8ysD8Q3/IMG-1603.jpg'
+          />
 
           <p className='description'>
             My name is Danny Toy. I am a Computer Science major at the University of Colorado Boulder! I am also currently going for a math and japanese minor! I have a lot of hobbies
@@ -58,8 +63,8 @@ export default function examplePage() {
           }
 
           .pic {
-            height: 450px;
-            width: 450px;
+            height: 604.8px;
+            width: 453.6px;
           }
 
           .button {
